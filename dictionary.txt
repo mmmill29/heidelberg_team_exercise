@@ -8,7 +8,7 @@ Klimaanlage > air conditioning
 Rammstein > Popular German musician [No translation]
 Porsche > Luxury car [ No translation]
 BMW  >  Bayerische Motoren Werke GmbH/Bavarian Engine Works Company
-Biergarten > bar/tavern
+Biergarten > an outdoor bar/tavern
 Ratskeller > beer cellar/tavern/pub
 Dirndel > young german woman
 Lederhose > men's pants
@@ -17,6 +17,7 @@ wettbewerbsfaehig > competitive
 Mehlhase > Surname/flour bunny
 Gebaeck > pastries 
 Baeckerei > bakery
-Hund DÃ¶ner > Dog doner
+Hund > Dog
+Döner > Doner kebab
 Apfelkuchen > Apple pie
 Eltz > Castle in Germany [No translation]
